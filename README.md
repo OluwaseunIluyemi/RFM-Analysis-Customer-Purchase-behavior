@@ -27,4 +27,4 @@ By understanding the Recency, Frequency, and Monetary Value of the customer base
 
 <img width="704" alt="Customer Life Value_10" src="https://github.com/s1e2a3/RFM-Analysis-Customer-Purchase-behavior/assets/109803795/2c945fe1-3716-47ee-a6dd-af4ab81f2c91">
 
-<img width="705" alt="recommendation_11" src="https://github.com/s1e2a3/RFM-Analysis-Customer-Purchase-behavior/assets/109803795/8c7d3bcf-59f8-427b-a99b-b26988e6c7a7">
+<img width="708" alt="recommendation update" src="https://github.com/s1e2a3/RFM-Analysis-Customer-Purchase-behavior/assets/109803795/f5eccfe5-eca6-4a0e-9d19-0ccb4398481f">
